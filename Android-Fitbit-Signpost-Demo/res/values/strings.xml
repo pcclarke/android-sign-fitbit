@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FitbitSignpostDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="auth_button">Authorize with Fitbit</string>
+    <string name="request_button">Request Profile Info</string>
+
+</resources>
